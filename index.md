@@ -38,7 +38,7 @@ I am the first year master student of Computer Science, I am very interested in 
 * In this project, I developped a back-end system which is used to receives and analysis spectral data.<br>
 * Java, Spring MVC, MYSQL are used in this project.
 
-### fanghh project (2015.12-2016.12)
+### Fanghh project (2015.12-2016.12)
 
 * This project is used for home sales.<br> 
 * In this project, I developped a server-side system for mobile and a online loan system. <br>
@@ -50,3 +50,5 @@ I am the first year master student of Computer Science, I am very interested in 
 * Outstanding graduate of Harbin Institute of Technology
 * The second priz Chinese mathematical modeling contest
 * First-class scholarship
+* Outstanding scholarship for social work
+* Outstanding student leader of Harbin Institute of Technology
