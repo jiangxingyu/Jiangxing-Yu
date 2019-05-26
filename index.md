@@ -24,16 +24,26 @@ I am the first year master student of Computer Science, I am very interested in 
 
 ### Unstructured information extraction (2018.03-2018.05)
 
-This system is used to extract unstructured information, such as thumb up number, number of readings, number of comments, etc. These indicators were used to evaluate web page information.<br>
-In the development of this system, C++ and fast text text classification tool are used.
+* This system is used to extract unstructured information, such as thumb up number, number of readings, number of comments, etc. These indicators were used to evaluate web page information.<br>
+* In the development of this system, C++ and fast text text classification tool are used.
 
 ### Deep fetcher (2017.09-2018.01)
 
-This System is used to fetch web page pictures, CSS, js and other external chain information to analyze, process and cache. This information is eventually used for web page rendering to extract web page features.The project has a daily capacity of 50 billion.
-In the development of this system, nginx and web sourch cache technology are used.
+* This system is used to fetch web page pictures, CSS, js and other external chain information to analyze, process and cache. This information is eventually used for web page rendering to extract web page features.The project has a daily capacity of 50 billion.
+* In the development of this system, nginx and web sourch cache technology are used.
 
-### Microspectrometer system (2016.12-2017.03)
-|2015.08-2015.12|Fanghehui plantform|Responsible for the web back-end development. <br>This project is related to housing sales and online loan.|
+### Microspectrometer system (2016.12-2017.01)
+
+* The system is used to identify objects by spectroscopy.<br>
+* In this project, I developped a back-end system which is used to receives and analysis spectral data.<br>
+* Java, Spring MVC, MYSQL are used in this project.
+
+### fanghh project (2015.12-2016.12)
+
+* This project is used for home sales.<br> 
+* In this project, I developped a server-side system for mobile and a online loan system. <br>
+* Java, Spring MVC, MYSQL are used in this project.
+
 
 ## Achievements
 
