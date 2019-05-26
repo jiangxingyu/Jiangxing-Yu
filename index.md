@@ -43,7 +43,7 @@ Email:jiangxingy@student.unimelb.edu.au<br>
 * In this project, I developped a back-end system which is used to receives and analysis spectral data.<br>
 * Java, Spring MVC, MYSQL are used in this project.
 
-### Fanghh project (2015.12-2016.12)
+### Fanghehui project (2015.12-2016.12)
 
 * This project is used for home sales.<br> 
 * In this project, I developped a server-side system for mobile and a online loan system. <br>
