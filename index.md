@@ -6,7 +6,7 @@ I am the first year master student of Computer Science, I am very interested in 
 Email:jiangxingy@student.unimelb.edu.au<br>
 
 
-# Education
+## Education
 * (2019.01-Present) Master of Science(Computer Science) in the University of Melbourne.<br>
 * (2014.09-2018.06) Bachelor of Software engineering in Harbin institute of technology.<br>
 
