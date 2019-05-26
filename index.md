@@ -16,7 +16,7 @@ Email:jiangxingy@student.unimelb.edu.au<br>
 ### Data R&D intern in Baidu (2017.09-2018.05)
 
 * Developed a system to fetch massive network resources using c++ and nginx. The system has a daily concurrency of more than 10 billion. 
-* Implemented Dynamic caching of resources.
+* Developed Dynamic caching of resources.
 * Developed a system to extract unstructured signals using fast text.
 * Maintained baidu's web page analysis system.
 * Analysied web data by linux shell.
