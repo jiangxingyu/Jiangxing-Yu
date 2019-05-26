@@ -1,19 +1,24 @@
 
 ## Biography
 
-Student of Master of Science(Computer Science) in the University of Melbourne.<br>
-Bachelor of Software engineering in Harbin institute of technology.<br>
+I am the first year master student of Computer Science, I am very interested in search and NLP technology and have a strong desire to learn.
+<br>
 Email:jiangxingy@student.unimelb.edu.au<br>
 
-I am the first year master student of Computer Science, I am very interested in search and NLP technology and have a strong desire to learn. 
 
-## internship experience
+# Education
+* (2019.01-Present) Master of Science(Computer Science) in the University of Melbourne.<br>
+* (2014.09-2018.06) Bachelor of Software engineering in Harbin institute of technology.<br>
+
+
+## Internship experience
 
 ### Data R&D intern in Baidu (2017.09-2018.05)
 
 * Developped a system to grasping massive network external link resources for web page analysis and rendering. 
 * Developped a system to extract web page signals as a new feature of page ranking.
 * Maintained baidu's web page rendering system.
+* Used linux shell for data analysis.
 
 ### Back-end r&d intern in Cheetah mobile (2017.07-2017.08)
 
@@ -44,11 +49,16 @@ I am the first year master student of Computer Science, I am very interested in 
 * In this project, I developped a server-side system for mobile and a online loan system. <br>
 * Java, Spring MVC, MYSQL are used in this project.
 
+## Skill
+
+* Programming language: C++, Java, Python, Haskell, Prolog, Go, shell, matlab
+* Framework: nginx, spring
+* OS: Linux, Windows
 
 ## Achievements
 
 * Outstanding graduate of Harbin Institute of Technology
-* The second priz Chinese mathematical modeling contest
+* The second prize of Chinese mathematical modeling contest
 * First-class scholarship
 * Outstanding scholarship for social work
 * Outstanding student leader of Harbin Institute of Technology
