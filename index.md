@@ -11,7 +11,7 @@ Email:jiangxingy@student.unimelb.edu.au<br>
 * (2014.09-2018.06) Bachelor of Software engineering in Harbin institute of technology.<br>
 
 
-## Internship experience
+## Working experience
 
 ### Data R&D intern in Baidu (2017.09-2018.05)
 
@@ -20,7 +20,7 @@ Email:jiangxingy@student.unimelb.edu.au<br>
 * Maintained baidu's web page rendering system.
 * Used linux shell for data analysis.
 
-### Back-end r&d intern in Cheetah mobile (2017.07-2017.08)
+### Back-end R&D intern in Cheetah mobile (2017.07-2017.08)
 
 * Developed a face recognition background management system.
 
