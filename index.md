@@ -1,7 +1,7 @@
 
 ## Biography
 
-I am the first year master student of Computer Science, I am very interested in search and NLP technology and have a strong desire to learn.
+I am the first year master student of Computer Science, I am very interested in search and NLP technology and have a strong desire to learn. I really hope to join the team of NLP and make my own contribution.
 <br>
 Email:jiangxingy@student.unimelb.edu.au<br>
 
@@ -16,14 +16,14 @@ Email:jiangxingy@student.unimelb.edu.au<br>
 ### Data R&D intern in Baidu (2017.09-2018.05)
 
 * Developed a system to fetch massive network resources using c++ and nginx. The system has a daily concurrency of more than 10 billion. 
-* Developed Dynamic caching of resources.
-* Developed a system to extract unstructured signals using fast text.
+* Developed Dynamic caching of resources. This method improves the cache rate by about 10% compared with the previous generation method.
+* Developed a system to extract and mark unstructured signals in web page using Fast Text. The accuracy of the system can reach 95 %.
 * Maintained baidu's web page analysis system.
-* Analysied web data by linux shell.
+* Analysied web data by linux shell and hadoop steaming.
 
 ### Back-end R&D intern in Cheetah mobile (2017.07-2017.08)
 
-* Developed a face recognition background management system using go and beego.
+* Worked with a team, and developed a face recognition background management system using go and beego. This system has been used in Face recognition gate system.
 
 ## Project experience
 
