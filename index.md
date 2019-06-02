@@ -7,8 +7,8 @@ Email:jiangxingy@student.unimelb.edu.au<br>
 
 
 ## Education
-* (2019.01-Present) Master of Science(Computer Science) in the University of Melbourne.<br>
-* (2014.09-2018.06) Bachelor of Software Engineering in Harbin Institute of Technology.<br>
+* (2019.01-Present) Master of Science (Computer Science) in the University of Melbourne.<br>
+* (2014.09-2018.07) Bachelor of Engineering (Software Engineering) in Harbin Institute of Technology.<br>
 
 
 ## Working experience
@@ -42,7 +42,7 @@ Email:jiangxingy@student.unimelb.edu.au<br>
 ## Skill
 
 * Programming language: C++, Java, Python, Haskell, Prolog, Go, shell, matlab
-* Framework: nginx, spring
+* Framework: Nginx, Spring
 * OS: Linux, Windows
 
 ## Achievements
