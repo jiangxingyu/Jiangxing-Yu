@@ -7,7 +7,7 @@ Email:jiangxingy@student.unimelb.edu.au<br>
 
 
 ## Education
-* (2019.01-Present) Master of Science (Computer Science) in the University of Melbourne.<br>
+* (2019.03-Present) Master of Science (Computer Science) in the University of Melbourne.<br>
 * (2014.09-2018.07) Bachelor of Engineering (Software Engineering) in Harbin Institute of Technology.<br>
 
 
