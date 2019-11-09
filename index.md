@@ -1,7 +1,7 @@
 
 ## Biography
 
-I am a first-year master student of Computer Science in Unimelb, I am very interested in search and NLP technology and have a strong desire to learn. I really hope to join the team of NLP and make my own contribution.
+I am a first-year master student of Computer Science in Unimelb, I am very interested in search and NLP technology and have a strong desire to learn.
 <br>
 Email:jiangxingy@student.unimelb.edu.au<br>
 
@@ -43,6 +43,7 @@ Email:jiangxingy@student.unimelb.edu.au<br>
 
 * Programming language: C++, Java, Python, Haskell, Prolog, Go, shell, matlab
 * Framework: Nginx, Spring
+* Algorithm: Machine Learning, NLP, Reinforcement learning
 * OS: Linux, Windows
 
 ## Achievements
